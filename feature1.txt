@@ -2,3 +2,4 @@ Feature 1
 Test
 Hello
 New Feature
+Feature 2
